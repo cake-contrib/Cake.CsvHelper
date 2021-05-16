@@ -2,7 +2,9 @@
 
 Cake Addin for working with CSV files using the CSVHelper library.
 
-[![License](http://img.shields.io/:license-apache-blue.svg)](https://github.com/RadioSystems/Cake.CsvHelper/blob/master/LICENSE)
+## Give a Star! :star:
+
+If you like or are using this project please give it a star. Thanks!
 
 ## Information
 
@@ -26,12 +28,6 @@ Cake Addin for working with CSV files using the CSVHelper library.
 
 - [Documentation](https://radiosystems.github.io/Cake.CsvHelper)
 
-## Chat Room
-
-Come join in the conversation about Cake.CsvHelper in our Gitter Chat Room
-
-[![Join the chat at https://gitter.im/cake-contrib/Lobby](https://badges.gitter.im/cake-contrib/Lobby.svg)](https://gitter.im/cake-contrib/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ## Build
 
 To build this package we are using Cake.
@@ -41,3 +37,17 @@ On Windows PowerShell run:
 ```powershell
 ./build
 ```
+
+## Discussion
+
+For questions and to discuss ideas & feature requests, use the [GitHub discussions on the Cake GitHub repository](https://github.com/cake-build/cake/discussions), under the [Extension Q&A](https://github.com/cake-build/cake/discussions/categories/extension-q-a) category.
+
+[![Join in the discussion on the Cake repository](https://img.shields.io/badge/GitHub-Discussions-green?logo=github)](https://github.com/cake-build/cake/discussions)
+
+## Release History
+
+Click on the [Releases](https://github.com/cake-contrib/Cake.CsvHelper/releases) tab on GitHub.
+
+---
+
+_Copyright &copy; 2017-2021 Cake Contributors - Provided under the [MIT License](LICENSE)._
